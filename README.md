@@ -32,17 +32,12 @@ Key Technologies
 - Frontend: Web & mobile dashboards for energy data visualization and control
 
 🗂️ Project Components
-📈 Energy Monitoring: Measure and analyze energy use in classrooms, labs, dorms
-
-❄️ HVAC Automation: Auto-adjust cooling/heating based on occupancy and weather
-
-💡 Smart Lighting: Control lighting based on presence and natural light levels
-
-🤖 AI Predictions: Forecast energy usage trends and provide recommendations
-
-🎨 User Experience: Intuitive UI/UX design with clear floor layouts and real-time graphs
-
-🏗️ Industrial Design: Custom modular hardware enclosures for sensors and nodes
+- Energy Monitoring: Measure and analyze energy use in classrooms, labs, dorms
+- HVAC Automation: Auto-adjust cooling/heating based on occupancy and weather
+- Smart Lighting: Control lighting based on presence and natural light levels
+- AI Predictions: Forecast energy usage trends and provide recommendations
+- User Experience: Intuitive UI/UX design with clear floor layouts and real-time graphs
+- Industrial Design: Custom modular hardware enclosures for sensors and nodes
 
 🚀 Future Development
 The project roadmap includes:
