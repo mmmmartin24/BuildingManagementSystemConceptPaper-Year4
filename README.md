@@ -1,3 +1,5 @@
+<h2> 📚 Campus Building Management System (C-BMS) </h2>
+
 📌 Project Overview
 As a final project for the Internet of Things and Electrical Engineering course at Calvin Institute of Technology, our group of three developed a concept paper for an IoT-based Campus Building Management System (C-BMS). This system is designed to optimize energy efficiency across campus facilities by using smart sensors, real-time data, centralized dashboards, and AI-powered insights. The proposal uses our own campus as a real-world case study.
 
